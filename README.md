@@ -1,2 +1,10 @@
 # Heart-Disease-Prediction-Using-LSTM-Logistics-Regression-Decision-tree-and-Random-forest
 Heart disease remains one of the major causes of death worldwide, highlighting the need for early and accurate diagnosis. This project aims to predict the presence of heart disease in patients using a combination of machine learning and deep learning techniques, Logistic Regression, Decision Tree, Random Forest, and Long Short-Term Memory models. 
+
+The dataset used for this study consists of various medical and demographic attributes such as age, sex, chest pain type, resting blood pressure, cholesterol level, fasting blood sugar, ECG results, maximum heart rate, and exercise-induced angina. Data preprocessing steps including handling categorical variables, feature scaling, and train-test splitting are performed to improve model performance and reliability.
+
+Logistic Regression is employed as a baseline model due to its simplicity and interpretability in binary classification problems. The Decision Tree classifier is used to capture non-linear relationships between features and provide understandable decision rules. Random Forest, an ensemble learning technique, combines multiple decision trees to enhance prediction accuracy and reduce overfitting. Additionally, an LSTM model is implemented to learn complex feature relationships and improve prediction capability using deep learning.
+
+Model performance is evaluated using metrics such as accuracy, precision, recall, and F1-score. A comparative analysis of all models is conducted to identify the most effective approach for heart disease prediction. Visualization techniques, including accuracy comparison graphs, are used to support the analysis.
+
+The results demonstrate that Random Forest and LSTM models outperform traditional classifiers, providing higher accuracy and robustness. This project highlights the effectiveness of integrating machine learning and deep learning techniques for medical diagnosis, offering a reliable decision-support system for early heart disease detection.
