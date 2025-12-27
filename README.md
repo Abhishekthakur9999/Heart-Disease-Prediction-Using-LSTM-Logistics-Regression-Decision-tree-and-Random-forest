@@ -1,0 +1,2 @@
+# Heart-Disease-Prediction-Using-LSTM-Logistics-Regression-Decision-tree-and-Random-forest
+Heart disease remains one of the major causes of death worldwide, highlighting the need for early and accurate diagnosis. This project aims to predict the presence of heart disease in patients using a combination of machine learning and deep learning techniques, Logistic Regression, Decision Tree, Random Forest, and Long Short-Term Memory models. 
